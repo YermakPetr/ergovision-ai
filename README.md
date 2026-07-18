@@ -116,7 +116,7 @@ The pipeline creates:
 - [timeline_interesting.png](data/processed/timeline_interesting.png);
 - [report.md](data/processed/report.md).
 
-  ## Timeline Preview
+## Timeline Preview
 
 ![Interesting minutes timeline](data/processed/timeline_interesting.png)
 
