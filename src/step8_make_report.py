@@ -45,7 +45,6 @@ lines.append(f"- Interesting segments: {len(segs)}")
 lines.append("")
 
 lines.append("## Timeline plot")
-lines.append("![Interesting timeline](timeline_interesting.png)")
 lines.append("")
 
 lines.append("## Top segments")

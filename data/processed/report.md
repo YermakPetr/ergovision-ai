@@ -1,6 +1,6 @@
 # ErgoVision AI report
 
-Generated: 2026-07-17T15:48:24
+Generated: 2026-07-18T20:06:10
 
 ## Config
 - MIN_HITS: 1
@@ -15,7 +15,6 @@ Generated: 2026-07-17T15:48:24
 - Interesting segments: 7
 
 ## Timeline plot
-![Interesting timeline](timeline_interesting.png)
 
 ## Top segments
 - 01:30:00–01:31:00 | score=3.683 | headroll_mean;mouth_mean
