@@ -1,0 +1,27 @@
+# Virtual environment
+venv311/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# Raw videos
+data/raw/*.mp4
+data/raw/*.webm
+data/raw/*.mov
+data/raw/*.avi
+
+# Large generated files
+data/processed/*.jsonl
+data/processed/clips_scored/
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+data/processed/clips/

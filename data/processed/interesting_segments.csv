@@ -1,0 +1,8 @@
+start_minute,end_minute,features,segment_score
+90,90,headroll_mean;mouth_mean,3.683
+36,36,shoulder_mean,3.002
+72,72,headroll_mean;shoulder_mean,2.872
+52,52,headroll_mean,2.82
+82,82,shoulder_mean,2.571
+39,39,shoulder_mean,2.35
+76,76,mouth_mean,2.175
